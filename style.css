@@ -1,0 +1,25 @@
+body{
+    width: 95vw;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #6db46d;
+}
+
+h2{
+    margin: 0;
+}
+
+.container{ 
+    display: flex;
+}
+
+.listaPontos{
+    padding: 10px;
+    margin-left: 30px;
+    min-width: 20%;
+    height: 200px;
+    background-color: rgb(234, 240, 238);
+}
